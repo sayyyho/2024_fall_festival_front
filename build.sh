@@ -1,9 +1,9 @@
 #!/bin/sh
 
-cd ../
+# cd ../
 
-mkdir output
+# mkdir output
 
-cp -R ./2024_fall_festival_front/* ./output
+# cp -R ./2024_fall_festival_front/* ./output
 
-cp -R ./output ./2024_fall_festival_front
+# cp -R ./output ./2024_fall_festival_front
